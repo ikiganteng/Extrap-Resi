@@ -10,4 +10,4 @@ tggal run anjg
  
  
  # target resi 
- ambil daei resi valid kemudian ubah 3 angka belakangnya jadi 000
+ ambil dari resi valid kemudian ubah 3 angka belakangnya jadi 000
