@@ -1,4 +1,10 @@
  <?php
+/**
+ * CREATE : M34L@Ismail Muhammad Zeindy
+ * EDITED : IKIGANTENG
+ * GANTI TULISAN SEMOGA MATI MENDADAK LO AJG
+ * Special Thanks To : Setya Mickala as SHARE AIRDROP
+ */
  function Curi($url, $fields=false, $cookie=false, $httpheader=false, $proxy=false, $encoding=false, $timeout=false, $useragent=false)
     { 
         $ch = curl_init();
