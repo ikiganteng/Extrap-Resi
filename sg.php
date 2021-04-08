@@ -9,7 +9,7 @@
 $i = 0;
 $j = 0;
     while(true){
-        $randomAWB = 'LP1'.rand(00000000,99999999).'SG'; // atur target sendiri
+        $randomAWB = 'LP190'.rand(000000,999999).'SG'; // atur target sendiri
         $check = sg($randomAWB);
         $json_check = json_decode($check,true);
             if ($json_check['rajaongkir']['status']['code'] == 200) {
